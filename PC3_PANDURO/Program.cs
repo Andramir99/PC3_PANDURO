@@ -1,7 +1,10 @@
+using PC3_PANDURO.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient<JsonPlaceholderService>();
 
 var app = builder.Build();
 

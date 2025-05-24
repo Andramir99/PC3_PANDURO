@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PC3_PANDURO", "PC3_PANDURO\PC3_PANDURO.csproj", "{2089442A-AAE8-1C7D-2C5C-FE0CF2DB987C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2089442A-AAE8-1C7D-2C5C-FE0CF2DB987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2089442A-AAE8-1C7D-2C5C-FE0CF2DB987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2089442A-AAE8-1C7D-2C5C-FE0CF2DB987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2089442A-AAE8-1C7D-2C5C-FE0CF2DB987C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83B96A6-2E0A-4B71-B0D3-9C021A996D39}
+	EndGlobalSection
+EndGlobal
